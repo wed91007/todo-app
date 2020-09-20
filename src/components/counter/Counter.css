@@ -1,0 +1,12 @@
+button{
+    background-color: aquamarine;
+    font-size : 16px;
+    padding : 15px 30px;
+    color : rgb(27, 53, 199);
+    width : 100px;
+}
+
+.count{
+    font-size: 50px;
+    padding : 30px 30px;
+}
